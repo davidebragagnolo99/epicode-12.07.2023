@@ -1,0 +1,24 @@
+.lst {
+  text-decoration: line-through;
+  color: red;
+}
+
+.myBtn {
+  background-color: white;
+  color: blue;
+  margin-left: 10px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  background-image: url(assets/spesa.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+button {
+  color: blue;
+  background-color: white;
+}
+
